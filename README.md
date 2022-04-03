@@ -1,0 +1,2 @@
+# primeNumbers
+asal sayilar
